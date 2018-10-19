@@ -1,6 +1,0 @@
-token= 
-owner= 383711936174620672 
-prefix= R
-game= آلحياة بدون صلٱة  🕌 ،  كشججر بلآ اورأق
-stayinchannel=true
-songinstatus= true
