@@ -349,7 +349,7 @@ client.on('ready', () => {
       console.log(`ON ${client.guilds.size} Servers '     Script By : Diamond Codes ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`آلحياة بدون صلٱة  ،  كشججر بلآ اورأق By : LooZ`,"http://twitch.tv/S-F")
+client.user.setGame(`آلحياة بدون صلٱة  ،  كشججر بلآ اورأق`,"http://twitch.tv/S-F")
 client.user.setStatus("online")
  
 });
